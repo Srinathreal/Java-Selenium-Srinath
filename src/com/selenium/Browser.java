@@ -100,7 +100,6 @@ public class Browser {
 		File dest = new File("C:\\Users\\srina\\eclipse-workspace\\Selenium\\Snaps\\img.png");
 		FileUtils.copyFile(screenshotAs, dest);
 
-	
 	}
 
 }
